@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/iportfolio/static/css/main.3f72fcb7.css",
+    "main.js": "/iportfolio/static/js/main.3a26da4f.js",
+    "static/js/787.89cdefba.chunk.js": "/iportfolio/static/js/787.89cdefba.chunk.js",
+    "static/media/PG_Resume.pdf": "/iportfolio/static/media/PG_Resume.eb838dab5800afd6c239.pdf",
+    "static/media/laptop.png": "/iportfolio/static/media/laptop.f3cc37a1eff0b840a7a5.png",
+    "static/media/FMIRL.png": "/iportfolio/static/media/FMIRL.a3585b98eb89d1a6369e.png",
+    "static/media/paulguerra.jpg": "/iportfolio/static/media/paulguerra.a404d602c40561961242.jpg",
+    "static/media/run-buddy.jpg": "/iportfolio/static/media/run-buddy.000e1b5ff4f0b912c97f.jpg",
+    "static/media/CINEMANIACS.png": "/iportfolio/static/media/CINEMANIACS.e9e1c35ee1dae044a94c.png",
+    "static/media/GID.png": "/iportfolio/static/media/GID.9a5ec93fdebe2d9694e0.png",
+    "static/media/TK0.png": "/iportfolio/static/media/TK0.c1a8a1beac9adc470d0b.png",
+    "static/media/WD.png": "/iportfolio/static/media/WD.cc9187a6b4b3f5160f4e.png",
+    "static/media/Taskmaster-Pro.png": "/iportfolio/static/media/Taskmaster-Pro.d948addeeb3214aff3be.png",
+    "static/media/WDS.png": "/iportfolio/static/media/WDS.31bc9819adbacfb445df.png",
+    "index.html": "/iportfolio/index.html",
+    "main.3f72fcb7.css.map": "/iportfolio/static/css/main.3f72fcb7.css.map",
+    "main.3a26da4f.js.map": "/iportfolio/static/js/main.3a26da4f.js.map",
+    "787.89cdefba.chunk.js.map": "/iportfolio/static/js/787.89cdefba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f72fcb7.css",
+    "static/js/main.3a26da4f.js"
+  ]
+}
